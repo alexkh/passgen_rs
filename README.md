@@ -1,5 +1,9 @@
-This is a desktop app for generating random passwords.
-It app is written in Rust.
+This is a desktop application for generating random passwords.
+
+![App Screenshot](doc/screenshot.png)
+
+This app is written in Rust.
+
 To build type:
 
 ```cargo build --release```
